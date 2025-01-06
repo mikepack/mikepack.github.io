@@ -1,0 +1,33 @@
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# Site Settings
+locale: "en-US"
+title: "My Website"
+title_separator: "-"
+subtitle: 
+name: "Your Name"
+description: "A personal website and blog"
+url: "" # the base hostname & protocol
+baseurl: "" # the subpath of your site
+
+# Site Author
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "A brief description about yourself."
+  location: "Your Location"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+
+# Build settings
+include: ["_pages"]
+
+# Collections
+collections:
+  archives:
+    output: true
+    permalink: /:collection/:path/
