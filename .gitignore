@@ -31,6 +31,7 @@ Thumbs.db
 *.log
 
 # Ruby specific
+Gemfile.lock
 *.gem
 .ruby-version
 .ruby-gemset

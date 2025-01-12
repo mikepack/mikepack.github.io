@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
-gem "csv"
-gem "base64"
-gem "jekyll", "~> 4.3.2"
 gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
@@ -13,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
+  gem "github-pages", "~> 232"
 end

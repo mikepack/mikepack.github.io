@@ -1,5 +1,5 @@
 # Theme Settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin: "dirt"
 
 # Site Settings
@@ -10,7 +10,8 @@ title_separator: "-"
 # subtitle: "Stand out."
 name: "Spacebar"
 description: "Principal engineering and leadership consulting."
-url: "https://spacebar.dev" # the base hostname & protocol
+domain: "mikepack.github.io"
+url: "mikepack.github.io"
 baseurl: "" # the subpath of your site
 
 plugins:
