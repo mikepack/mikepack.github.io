@@ -1,8 +1,7 @@
 ---
-title: "Archive"
-layout: collection
-permalink: /archives/
-collection: archives
+title: "Articles"
+layout: posts
+permalink: /articles/
 author_profile: true
 classes: wide
 paginate: true

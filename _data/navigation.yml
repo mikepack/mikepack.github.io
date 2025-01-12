@@ -1,7 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /blog/
+  - title: "Articles"
+    url: /articles/
   - title: "Archive"
     url: /archives/
+  - title: "Contact"
+    url: /contact/

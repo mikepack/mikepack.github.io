@@ -1,27 +1,38 @@
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dirt"
 
 # Site Settings
 locale: "en-US"
-title: "My Website"
+title: "Spacebar"
+logo: "/assets/images/logo-cropped.png"
 title_separator: "-"
-subtitle: 
-name: "Your Name"
-description: "A personal website and blog"
-url: "" # the base hostname & protocol
+# subtitle: "Stand out."
+name: "Spacebar"
+description: "Principal engineering and leadership consulting."
+url: "https://spacebar.dev" # the base hostname & protocol
 baseurl: "" # the subpath of your site
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "A brief description about yourself."
-  location: "Your Location"
+  name: "Mike Pack"
+  avatar: "/assets/images/headshot.png"
+  bio: "Howdy. I'm a principal engineer and senior startup leader. This is a glimpse into my brain."
+  location: "Denver, CO"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mikepack"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mikepackdev/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mike@spacebar.dev"
 
 # Build settings
 include: ["_pages"]
@@ -31,3 +42,52 @@ collections:
   archives:
     output: true
     permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+      classes: wide
+      show_date: true
+      sort_by: date
+      sort_order: reverse
+  # _archives
+  - scope:
+      path: ""
+      type: archives
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+      classes: wide
+      show_date: true
+      sort_by: date
+      sort_order: reverse
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mikepack"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mikepackdev/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mike@spacebar.dev"
