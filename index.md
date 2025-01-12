@@ -15,12 +15,12 @@ I'm Mike Pack, an engineering leader who thrives on solving tough problems and b
 
 Spacebar is my consulting company and my thought platform. Explore my articles here or feel free to grab 45 minutes for free advice. If you're in need of a principal engineer or fractional engineering leadership, please [reach out](/contact/). I can help you scale your startup, tackle technical challenges, or crafting a grand vision. I pride myself on the highest industry standard service and exceptional results.
 
-## Recent Posts
+<!-- ## Recent Posts
 
 Here are a few of my recent [articles](/articles/):
 
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:3 %}
   - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-Be sure to check out my [archive](/archives/) for inspiration.
+Be sure to check out my [archive](/archives/) for inspiration. -->
