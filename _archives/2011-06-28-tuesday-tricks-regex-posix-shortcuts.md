@@ -7,6 +7,8 @@ tags:
   - regex
   - ruby
   - posix
+  - optimization
+  - string-manipulation
 ---
 
 Hate typing redundant regular expressions? Me too. How often have you typed the regex `[a-zA-Z0-9]`?

@@ -9,6 +9,8 @@ tags:
   - ruby
   - dci
   - testing
+  - design-patterns
+  - bdd
 ---
 
 Many articles found in the Ruby community largely oversimplify the use of DCI. These articles, including <a href="/archives/2012-01-17-benchmarking-dci-in-ruby/" target="_blank">my own</a>, highlight how DCI injects Roles into objects at runtime, the essence of the DCI architecture. Many posts regard DCI in the following way:

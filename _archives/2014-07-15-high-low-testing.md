@@ -9,6 +9,11 @@ tags:
   - ruby
   - high-low
   - rspec
+  - architecture
+  - productivity
+  - best-practices
+  - tdd
+  - oop
 ---
 
 High-low testing has changed the way I build software. When I first started using Rails five years ago, the paradigm of choice was fat model, skinny controller. This guidance is well-intentioned, but the more I worked within its bounds, the more frustrated I became. In particular, with fat models. Why should anything in software be fat?

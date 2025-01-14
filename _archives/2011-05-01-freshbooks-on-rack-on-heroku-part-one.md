@@ -8,6 +8,11 @@ tags:
   - rack
   - heroku
   - api
+  - integration
+  - web-services
+  - tutorials
+  - ruby
+  - series
 ---
 
 I love <a href="http://www.freshbooks.com/" target="_blank">FreshBooks</a>. It makes my time tracking incredibly easy and my invoicing hassle free. That's not all; their website is extremely powerful but feels lightweight and friendly to use. As a software engineer, I really appreciate and expect my invoicing tool to be Web 2.0 and fun.

@@ -7,6 +7,8 @@ tags:
   - ruby
   - methods
   - refactoring
+  - best-practices
+  - oop
 ---
 
 For years, I didn't understand protected methods. Not because I didn't care to, but because I couldn't see the practicality. I'd been writing what I thought was quality production software and never needed them. Not once. It also didn't help that most explanations of protected methods evoked flashbacks of my worst classes in college when I realized mid-semester I had no idea what was going on. I'm not sure if that was my fault or the professor's.

@@ -4,7 +4,7 @@ date: 2011-05-17
 categories:
   - Archive
 tags:
-  - tuesday tricks
+  - tuesday-tricks
   - javascript
   - timers
 ---

@@ -7,7 +7,7 @@ tags:
   - exhibit
   - presenter
   - decorator
-  - design patterns
+  - design-patterns
 ---
 
 The exhibit pattern was recently introduced by Avdi Grimm in his book <a href="http://objectsonrails.com/" target="_blank">Objects on Rails</a>. During its introduction, he spent a respectable amount of time laying the foundation for the pattern and discussing how it differs from presenters. While his clarification between the patterns felt succinct and useful, it only piqued my interest. Let's explore these patterns more thoroughly.

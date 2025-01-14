@@ -5,7 +5,10 @@ categories:
   - Archive
 tags:
   - mvc
-  - design patterns
+  - design-patterns
+  - architecture
+  - programming-paradigms
+  - history
 ---
 
 Recently on the object-composition mailing list, Trygve Reenskaug, creator of MVC and co-creator of DCI, posted a <a href="https://groups.google.com/d/msg/object-composition/4bn32D8KzWc/-DOKxztvNrkJ" target="_blank">short reiteration of the MVC pattern</a>. I'm reposting this here because I find it integral to understanding both historical and present day incarnations of this fundamental design pattern. I find this description succinct and meaningful.

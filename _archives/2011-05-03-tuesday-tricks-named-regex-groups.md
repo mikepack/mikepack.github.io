@@ -4,9 +4,10 @@ date: 2011-05-03
 categories:
   - Archive
 tags:
-  - tuesday tricks
+  - tuesday-tricks
   - regex
   - ruby
+  - string-manipulation
 ---
 
 New in Ruby 1.9 is the ability to name capture groups so you don't have to use `$1`, `$2`...`$n`. First a demonstration:

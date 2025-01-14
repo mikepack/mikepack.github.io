@@ -10,6 +10,8 @@ tags:
   - fp
   - concurrency
   - actors
+  - inheritance
+  - polymorphism
 ---
 
 When talking about mainstream programming languages, we often put them into two major buckets: object oriented programming and functional programming. But these programming paradigms are not oil and water. In this article I'll be blending the two to demonstrate a technique in Elixir.

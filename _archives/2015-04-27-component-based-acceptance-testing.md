@@ -7,9 +7,12 @@ tags:
   - acceptance
   - testing
   - components
-  - page objects
+  - page-objects
   - capybara
   - rspec
+  - javascript
+  - ruby
+  - acceptance-testing
 ---
 
 Have you heard of <a href="https://robots.thoughtbot.com/better-acceptance-tests-with-page-objects" target="_blank">page objects</a>? They're awesome. I'll refer to them as POs. They were conceived as a set of guidelines for organizing the actions a user takes within an application, and they work quite well. There are a few shortcoming with POs, however. Namely, the guidelines (or lack thereof) around how to handle pieces of the app that are shared across pages. That's where components are useful.

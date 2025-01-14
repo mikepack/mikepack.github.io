@@ -4,8 +4,11 @@ date: 2012-10-02
 categories:
   - Archive
 tags:
-  - design patterns
+  - design-patterns
   - ruby
+  - best-practices
+  - architecture
+  - code-quality
 ---
 
 Design patterns are awesome. The more we build software with them in mind, the better off we'll be as a community. They can help us elegantly construct solutions which can be readily discussed with peers. They're common solutions to common problems. They're not just common solutions, however. They're battle tested, proven, performant and generally considered "the best" solution. Design patterns are the apotheosis, the epitome, of solution.

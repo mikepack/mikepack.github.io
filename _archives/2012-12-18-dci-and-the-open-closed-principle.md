@@ -8,6 +8,11 @@ tags:
   - oop
   - solid
   - ocp
+  - inheritance
+  - architecture
+  - design-patterns
+  - refactoring
+  - best-practices
 ---
 
 The open/closed principle (OCP) is a fundamental "run of thumb" in object-oriented languages. It has hands in proper inheritance, polymorphism, and encapsulation amongst other core properties of object-oriented programming.

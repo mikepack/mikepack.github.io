@@ -8,6 +8,7 @@ tags:
   - rspec
   - testing
   - factory_girl
+  - fixtures
 ---
 
 Many applications rely on seed data as a basic set of information to get their app off the ground and functional. Seed data to an application is like wheels to a car. Without the wheels, your car won't function.

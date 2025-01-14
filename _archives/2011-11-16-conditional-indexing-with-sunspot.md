@@ -9,6 +9,9 @@ tags:
   - sunspot
   - search
   - indexing
+  - solr
+  - optimization
+  - performance
 ---
 
 One of my favorite new features of <a href="https://github.com/sunspot/sunspot" target="_blank">Sunspot</a> 1.3 is the ability to conditionally index an instance of a model based on anything that returns a boolean.

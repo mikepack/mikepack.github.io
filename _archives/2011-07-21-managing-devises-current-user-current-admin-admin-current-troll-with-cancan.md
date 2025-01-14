@@ -7,6 +7,9 @@ tags:
   - rails
   - devise
   - cancan
+  - authentication
+  - authorization
+  - security
 ---
 
 <a href="https://github.com/ryanb/cancan" target="_blank">CanCan</a> is awesome. It lets you manage user abilities easily and provides ways to define complex scenarios. I highly recommend using it for anyone who has more than one user type (like Troll).

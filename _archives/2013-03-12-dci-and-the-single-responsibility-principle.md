@@ -8,6 +8,8 @@ tags:
   - oop
   - solid
   - srp
+  - ruby
+  - design-patterns
 ---
 
 The single responsibility principle (SRP) is one of the most widely followed ideals in object oriented programming. For decades, developers have been striving to ensure their classes take on just enough, but not too much, responsibility. A valiant effort and by far one of the best ways to produce maintainable code.

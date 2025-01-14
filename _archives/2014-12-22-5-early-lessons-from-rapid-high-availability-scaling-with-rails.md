@@ -4,12 +4,21 @@ date: 2014-12-22
 categories:
   - Archive
 tags:
-  - scaling
-  - ello
-  - postgres
-  - heroku
-  - rails
   - ruby
+  - rails
+  - heroku
+  - scaling
+  - postgresql
+  - redis
+  - performance
+  - databases
+  - caching
+  - sharding
+  - high-availability
+  - infrastructure
+  - lessons-learned
+  - ello
+  - optimization
 ---
 
 At <a href="https://ello.co/" target="_blank">Ello</a>, we were blindsided by the amount of traffic we were receiving. Right time, right place, I guess. One week, we're seeing a few thousand daily sessions. The following week, a few million. This insurgence of users meant the software we built was contorted in directions we never thought possible.

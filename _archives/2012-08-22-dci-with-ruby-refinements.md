@@ -7,6 +7,12 @@ tags:
   - dci
   - ruby
   - refinements
+  - object-oriented
+  - performance
+  - design-patterns
+  - metaprogramming
+  - monkey-patching
+  - benchmarking
 ---
 
 **TL;DR** - Have your cake and eat it too. Ruby refinements, currently in 2.0 trunk, can cleanly convey DCI role injection and performs right on par with `#include`-based composition. However, there's some serious caveats to using refinements over `#extend`.

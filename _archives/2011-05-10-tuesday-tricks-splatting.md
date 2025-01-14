@@ -4,7 +4,7 @@ date: 2011-05-10
 categories:
   - Archive
 tags:
-  - tuesday tricks
+  - tuesday-tricks
   - splat
   - ruby
 ---

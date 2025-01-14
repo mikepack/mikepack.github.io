@@ -8,6 +8,10 @@ tags:
   - rack
   - heroku
   - api
+  - deployment
+  - git
+  - tutorials
+  - series
 ---
 
 In <a href="/archives/2011-05-01-freshbooks-on-rack-on-heroku-part-one/" target="_blank">Part One</a> of this series, we constructed a "hello world" Rack app. In <a href="/archives/2011-05-04-freshbooks-on-rack-on-heroku-part-two/" target="_blank">Part Two</a> of this series, we brought our app to life with the ruby-freshbooks library. In this part, we'll quickly finish out by deploying our app to Heroku.

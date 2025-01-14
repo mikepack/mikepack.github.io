@@ -8,6 +8,10 @@ tags:
   - rack
   - heroku
   - api
+  - ruby-gems
+  - metaprogramming
+  - tutorials
+  - series
 ---
 
 In <a href="/archives/2011-05-01-freshbooks-on-rack-on-heroku-part-one/" target="_blank">Part One</a> of this series, we constructed a "hello world" Rack app, so to speak. In this part, we'll dive right into using the ruby-freshbooks gem and a little metaprogramming to keep things DRY.

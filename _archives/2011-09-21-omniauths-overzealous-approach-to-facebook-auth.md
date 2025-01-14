@@ -7,6 +7,9 @@ tags:
   - facebook
   - omniauth
   - api
+  - oauth
+  - performance
+  - authentication
 ---
 
 Call me a stickler, but I think there should be two pages that load quickest in any web app: The home page (for people not logged in) and the initial page you see once you are logged in, usually the dashboard.

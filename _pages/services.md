@@ -13,13 +13,13 @@ page_css:
     <div class="service-card-inner">
       <div class="service-card-front">
         <h3>Engineering Leadership</h3>
-        <p>Elevate your engineering organization with experienced leadership guidance. From team structuring to process optimization, I'll help build high-performing engineering cultures.</p>
+        <p>Elevate your engineering organization with expert leadership guidance. From team structuring to process refinement, I’ll help you build high-performing, collaborative cultures.</p>
       </div>
       <div class="service-card-back">
         <ul>
           <li>Engineering team assessments</li>
           <li>Technical leadership mentoring</li>
-          <li>Process implementation and optimization</li>
+          <li>Process refinement</li>
           <li>Engineering culture development</li>
         </ul>
       </div>
@@ -29,25 +29,8 @@ page_css:
   <div class="service-card flip">
     <div class="service-card-inner">
       <div class="service-card-front">
-        <h3>Product Strategy</h3>
-        <p>Transform your product vision into reality with strategic planning and execution. Leverage my experience in building successful products from concept to launch.</p>
-      </div>
-      <div class="service-card-back">
-        <ul>
-          <li>Product roadmap development</li>
-          <li>Feature prioritization frameworks</li>
-          <li>MVP strategy and execution</li>
-          <li>Product lifecycle management</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="service-card flip">
-    <div class="service-card-inner">
-      <div class="service-card-front">
         <h3>Technical Architecture</h3>
-        <p>Design scalable, maintainable systems that stand the test of time. Get expert guidance on architecture decisions and implementation strategies.</p>
+        <p>Design scalable, maintainable systems that stand the test of time. Gain expert guidance on architecture decisions and strategies tailored to your needs.</p>
       </div>
       <div class="service-card-back">
         <ul>
@@ -63,13 +46,30 @@ page_css:
   <div class="service-card flip">
     <div class="service-card-inner">
       <div class="service-card-front">
+        <h3>Data-Driven Product Strategy</h3>
+        <p>Turn your product vision into reality with data-driven strategies. I’ll help you deliver successful products that align with business goals and customer needs.</p>
+      </div>
+      <div class="service-card-back">
+        <ul>
+          <li>Product roadmap development</li>
+          <li>Feature prioritization frameworks</li>
+          <li>MVP strategy and execution</li>
+          <li>Metrics-driven product tracking</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="service-card flip">
+    <div class="service-card-inner">
+      <div class="service-card-front">
         <h3>Team Development</h3>
-        <p>Build and grow high-performing engineering teams. From hiring strategies to career development plans, I'll help you create a thriving engineering organization.</p>
+        <p>Build and grow high-performing engineering teams. From hiring strategies to career development, I’ll help you create a thriving, engaged organization.</p>
       </div>
       <div class="service-card-back">
         <ul>
           <li>Hiring process optimization</li>
-          <li>Team training programs</li>
+          <li>Mentorship programs</li>
           <li>Career development frameworks</li>
           <li>Performance evaluation systems</li>
         </ul>
@@ -80,15 +80,32 @@ page_css:
   <div class="service-card flip">
     <div class="service-card-inner">
       <div class="service-card-front">
-        <h3>Coding</h3>
-        <p>Leverage 22 years of experience across many languages and frameworks. I can help build prototypes, augment your existing team, or debug your systems.</p>
+        <h3>Custom Product Development</h3>
+        <p>Leverage 22 years of expertise across diverse languages to build scalable, reliable solutions. Whether starting from scratch, enhancing products, or solving tough challenges, I deliver results.</p>
       </div>
       <div class="service-card-back">
         <ul>
-          <li>Build new products</li>
-          <li>Prototype ideas for feasibility</li>
-          <li>Add new features to your existing product</li>
-          <li>Take on audacious refactors</li>
+          <li>Prototype new product lines</li>
+          <li>Enhance existing products</li>
+          <li>Execute bold refactors</li>
+          <li>Performance optimization and scaling</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="service-card flip">
+    <div class="service-card-inner">
+      <div class="service-card-front">
+        <h3>Optimize Operations</h3>
+        <p>Streamline your operations and empower your teams with a systems-first approach. I’ll help eliminate inefficiencies and design solutions that grow with your business.</p>
+      </div>
+      <div class="service-card-back">
+        <ul>
+          <li>Workflow analysis</li>
+          <li>Tool automation</li>
+          <li>Scalable operational systems</li>
+          <li>Cross-functional alignment</li>
         </ul>
       </div>
     </div>

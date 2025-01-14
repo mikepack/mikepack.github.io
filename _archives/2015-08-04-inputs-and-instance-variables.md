@@ -4,10 +4,13 @@ date: 2015-08-04
 categories:
   - Archive
 tags:
-  - locality of reference
+  - locality-of-reference
   - ruby
   - antipattern
   - attr_reader
+  - oop
+  - fp
+  - clean-code
 ---
 
 There's an antipattern I see in a lot of codebases. This antipattern obstructs our vision and makes code more difficult to reason about. It's everywhere, and its name is `attr_reader`.

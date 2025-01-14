@@ -7,6 +7,9 @@ tags:
   - ruby
   - rspec
   - formatter
+  - testing
+  - ruby-gems
+  - open-source
 ---
 
 I just released an RSpec formatter to make you feel all warm inside. Like hot chocolate. It's called <a href="https://github.com/mikepack/snowday" target="_blank">snowday</a>.

@@ -1,6 +1,6 @@
 ---
 title: "Fixed Timeline, Variable Scope — Part One"
-published: true
+published: false
 date: 2025-01-12
 header:
   image: /assets/images/articles/headers/fixed-timeline-variable-scope-1.jpg
@@ -10,9 +10,16 @@ categories:
 tags:
   - planning
   - process
-  - fixed timelines
+  - fixed-timelines
   - innovation
   - execution
+  - product-development
+  - project-management
+  - agile
+  - shape-up
+  - leadership
+  - estimation
+  - series
 ---
 
 Your company is likely caught in a common trap: overplanning innovation. It leaves product leaders frustrated by missed deadlines, engineers overwhelmed with endless work, and executives suffering whiplash from fluctuating roadmaps.

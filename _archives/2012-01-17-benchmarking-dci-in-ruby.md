@@ -11,6 +11,7 @@ tags:
   - benchmarking
   - profiling
   - architecture
+  - design-patterns
 ---
 
 I've recently become quite intrigued with the concepts behind DCI (Data Context and Interaction). I won't go too in depth about what DCI is or why you might use it, that's <a href="http://www.infoq.com/interviews/coplien-dci-architecture" target="_blank">been discussed</a> <a href="http://andrzejonsoftware.blogspot.com/2012/01/dci-and-rails-lessons-learnt.html" target="_blank">many</a> <a href="http://pettermahlen.com/2010/09/10/dci-architecture-good-not-great-or-both/" target="_blank">times</a> <a href="http://www.leansoftwarearchitecture.com/" target="_blank">elsewhere</a>. In short, DCI is an architecture which allows us to delineate our domain objects from the actual functions they perform. It mixes-in Roles (functionality) into our Data component when and only when that functionality it needed; when in Context. Most of the value DCI brings to the table derives from the way it forces you to abstract out behavior into testable modules.
