@@ -1,0 +1,19 @@
+.tags-list h2 {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}
+
+.tags-list ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.tags-list li {
+  margin-bottom: 0.5rem;
+}
+
+.tags-list small {
+  color: #666;
+  margin-left: 0.5rem;
+}

@@ -1,7 +1,6 @@
 ---
 title: "Dynamically Requesting Facebook Permissions with OmniAuth"
 date: 2011-04-27
-collaction: archives
 categories:
   - Archive
 tags:
