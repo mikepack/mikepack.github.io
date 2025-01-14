@@ -1,7 +1,10 @@
 ---
 title: "Fixed Timeline, Variable Scope — Part One"
 published: true
-date: 2025-01-15
+date: 2025-01-12
+header:
+  image: /assets/images/articles/headers/fixed-timeline-variable-scope-1.jpg
+  image_description: "Fixed Timeline, Variable Scope"
 categories:
   - Articles
 tags:
@@ -12,7 +15,7 @@ tags:
   - execution
 ---
 
-Your company is likely caught in a common trap: using fixed scopes for innovation. It leaves product leaders frustrated by missed deadlines, engineers overwhelmed with endless work, and executives whiplashed by fluctuating roadmaps.
+Your company is likely caught in a common trap: overplanning innovation. It leaves product leaders frustrated by missed deadlines, engineers overwhelmed with endless work, and executives suffering whiplash from fluctuating roadmaps.
 
 In this series, I'll make the case for rethinking how we approach software innovation. In part one, I’ll break down why the industry standard is broken and introduce a new framework. In part two, I’ll show you how to put this framework into action. And in part three, I’ll share insights from six years of applying it with real teams.
 
@@ -39,7 +42,7 @@ Engineering estimates are rarely reliable because few projects lean entirely tow
 ![XKCD Engineering Estimate](/assets/images/articles/xkcd-engineering-estimate.png)<br />
 [*Credit: XKCD*](https://xkcd.com/1658/)
 
-As a consultant, building dozens of 0→1 products has taught me a hard truth: to estimate a 6-month project with ±10% accuracy (which clients demand), you must tirelessly spec every feature, effectively converting innovation projects into execution projects. More often than not, this stifles creativity and forces predictability over discovery. Besides, who has time for that?
+Building dozens of 0→1 products has taught me a hard truth: to estimate a 6-month project with ±10% accuracy, you must tirelessly spec every feature, effectively converting innovation projects into execution projects. More often than not, this stifles creativity and forces predictability over impact. Besides, we've already learned the perils of waterfall.
 
 When the industry standard is applied to innovation work, everything fall apart. Since product doesn’t know exactly what they want and engineering isn’t quite sure how to get there, those estimates are like weather predictions a month from now, mostly fiction. Missed deadlines, stressed teams, and frustrated executives asking, “how do we avoid this next time?”. Sound familiar?
 
@@ -65,11 +68,13 @@ If everyone humbly acknowledges that we don’t know precisely what we want and 
 
 A fixed timeline process involves specifying an “appetite” for a project, like four weeks, and allowing the scope to vary within that timeframe. It ensures teams spend no more than four weeks on a project, while keeping the outputs flexible.
 
+> "The enemy of art is the absence of limitations." — Orson Welles
+
 Fixed timelines flip the script. Instead of asking, “how long will X take?” teams ask, “how much time are we willing to invest in X?” The latter encourages collaboration, creativity, and ruthless prioritization.
 
 Innovation work inherently risks runaway scope, but time-boxing effectively contains it. Instead of eliminating ambiguity upfront — with spikes or exhaustive planning — fixed timelines embrace it, ensuring teams can adapt within clear boundaries.
 
-I first discovered this approach in the [Shape Up](https://basecamp.com/shapeup){:target="_blank" rel="noopener noreferrer"} book, which offers many valuable insights. The most salient takeaway, however, is the concept of a fixed timeline.
+I first discovered this approach in the [Shape Up](https://basecamp.com/shapeup){:target="_blank" rel="noopener"} book, which offers many valuable insights. The most salient takeaway, however, is the concept of a fixed timeline.
 
 Over the years, I’ve leveraged this framework for innovation projects with marked success. I’ve adapted the book’s principles to handle the complexity of healthcare, streamline processes, and maximize collaboration. I've shipped major overhauls to tools, launched brand new products, and built complex integrations. All on a fixed timeline. The result? Happier teams, better outcomes, and improved operational efficiency.
 
@@ -84,4 +89,4 @@ When used appropriately, this paradigm has many benefits. In Part Three, I'll ex
 - *For executives*: Executives spend less time worrying about project minutiae (the “how”) and more time articulating the vision (the “why”).
 - *For everyone*: Power and influence over project completion shifts to the people best equipped to deliver measurable outcomes: the implementation team.
 
-In Part Two: I’ll show you exactly how to design fixed-timeline projects for success and transform your team’s approach to innovation. Follow on [LinkedIn](https://www.linkedin.com/in/mikepackdev/){:target="_blank" rel="noopener noreferrer"} for updates!
+In Part Two: I’ll show you exactly how to design fixed-timeline projects for success and transform your team’s approach to innovation. Follow on [LinkedIn](https://www.linkedin.com/in/mikepackdev/){:target="_blank" rel="noopener"} for updates!

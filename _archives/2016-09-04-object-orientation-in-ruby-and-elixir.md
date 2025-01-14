@@ -383,7 +383,7 @@ We've blended object orientation and functional programming throughout the cours
 
 Object orientation in Ruby is simple, elegant, and makes me happy. It doesn't provide the concurrency controls that Elixir offers, but the programming model is pleasant to use. On the other hand, Elixir allows us to model a system in an object oriented fashion while leveraging more powerful concurrency controls.
 
-Object orientation in Elixir may or may not be a viable approach. I don't have enough data yet to draw conclusions. It is worth mentioning again that the functional community uses different patterns. The creator of Erlang, Joe Armstrong, has [lamented over OOP](http://web.archive.org/web/20020413132000/http://www.bluetail.com/~joe/vol1/v1_oo.html) due to the blending of state and behavior, though I find this mixture inevitable with processes. So while it may not be commonplace to use functional languages in an objected oriented style, it's certainly possible and may be more graceful when modeling some domains.
+Object orientation in Elixir may or may not be a viable approach. I don't have enough data yet to draw conclusions. It is worth mentioning again that the functional community uses different patterns. The creator of Erlang, Joe Armstrong, has [lamented over OOP](http://www.bluetail.com/~joe/vol1/v1_oo.html){:target="_blank" rel="noopener"} due to the blending of state and behavior, though I find this mixture inevitable with processes. So while it may not be commonplace to use functional languages in an objected oriented style, it's certainly possible and may be more graceful when modeling some domains.
 
 Happy coding!
 

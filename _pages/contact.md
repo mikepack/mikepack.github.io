@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Feel free to contact me by email at [mike@spacebar.dev](mailto:mike@spacebar.dev).
+How can I help? Feel free to contact me by email at [mike@spacebar.dev](mailto:mike@spacebar.dev).
 
 I give 10% of my time to provide free advice to anyone who wants it. I'd welcome an opportunity to meet you! No obligation, just grab time on my calendar below.
 

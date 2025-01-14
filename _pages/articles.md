@@ -1,11 +1,10 @@
 ---
 title: "Articles"
-layout: posts
+layout: collection
 permalink: /articles/
+collection: posts
 author_profile: true
 classes: wide
-paginate: true
-paginate_path: /page:num/
 sort_by: date
 sort_order: reverse
 ---

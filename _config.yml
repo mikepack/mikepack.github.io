@@ -7,26 +7,23 @@ locale: "en-US"
 title: "Spacebar"
 logo: "/assets/images/logo-cropped.png"
 title_separator: "-"
-# subtitle: "Stand out."
 name: "Spacebar"
 description: "Principal engineering and leadership consulting."
 domain: "mikepack.github.io"
 url: "mikepack.github.io"
-baseurl: "" # the subpath of your site
-
+baseurl: ""
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Site Author
 author:
   name: "Mike Pack"
   avatar: "/assets/images/headshot.png"
-  bio: "Howdy. I'm a principal engineer and senior startup leader. This is a glimpse into my brain."
+  bio: "Howdy! I'm a principal engineer and senior startup leader. This is a glimpse into my brain."
   location: "Denver, CO"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github" 
       url: "https://github.com/mikepack"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -37,16 +34,16 @@ author:
 
 # Build settings
 include: ["_pages"]
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# Collections
 collections:
   archives:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -54,12 +51,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      related: true
+      related: false
       classes: wide
       show_date: true
+      tag_archive: true
       sort_by: date
       sort_order: reverse
-  # _archives
   - scope:
       path: ""
       type: archives
@@ -70,6 +67,7 @@ defaults:
       related: true
       classes: wide
       show_date: true
+      tag_archive: true
       sort_by: date
       sort_order: reverse
   - scope:
