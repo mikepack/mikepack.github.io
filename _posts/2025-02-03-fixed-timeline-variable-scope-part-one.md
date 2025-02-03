@@ -1,4 +1,4 @@
-bba---
+---
 title: "Fixed Timeline, Variable Scope — Part One"
 published: true
 date: 2025-02-03
