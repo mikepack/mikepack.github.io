@@ -81,7 +81,7 @@ page_css:
     <div class="service-card-inner">
       <div class="service-card-front">
         <h3>Custom Product Development</h3>
-        <p>Leverage 22 years of expertise across diverse languages to build scalable, reliable solutions. Whether starting from scratch, enhancing products, or solving tough challenges, I deliver results.</p>
+        <p>Leverage 22 years of expertise across diverse languages to build scalable, reliable solutions. Whether starting from scratch, enhancing products, or solving tough problems, I deliver results.</p>
       </div>
       <div class="service-card-back">
         <ul>
