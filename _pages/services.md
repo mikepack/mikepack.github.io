@@ -85,6 +85,7 @@ page_css:
       </div>
       <div class="service-card-back">
         <ul>
+          <li>Ruby, Javascript, Exixir, Python</li>
           <li>Prototype new product lines</li>
           <li>Enhance existing products</li>
           <li>Execute bold refactors</li>
