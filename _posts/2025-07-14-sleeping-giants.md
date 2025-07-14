@@ -20,13 +20,13 @@ tags:
 
 Ten years ago, I observed that [greed undermines software craftsmanship](https://spacebar.dev/archives/2015-04-27-the-software-shokunin/). Today, that’s truer than ever.
 
-Recently, an industry idol claimed the craft itself is dying. That LLMs are steering software development toward languages that are easily generated. Languages not chosen for their elegance or fitness, but for their compatibility with a model’s training set.
+It’s been said that software craftsmanship is a dying art. That LLMs are steering software development toward languages that are easily generated. Languages not chosen for their elegance or fitness, but for their compatibility with a model’s training set.
 
 Friends of mine feel it too. Their teams are ditching purpose-built languages like Erlang in favor of generic options like Java. Not because they’re better, but because LLMs can churn them out on command.
 
-Others point out that coding isn’t the bottleneck in product development. I agree. But here’s the uncomfortable truth: the world is ravenous for software, and even LLMs won’t be enough to feed it.
+Others point out that coding isn’t the bottleneck in product development. I agree. But here’s the uncomfortable truth: businesses are ravenous for software, and even LLMs won’t be enough to feed it.
 
-While the industry gluts itself on code, the craftsman waits.
+While the world gluts itself on code, the craftsman waits.
 
 LLMs will flood the world with net-new code. They’ll subvert human-crafted systems with generative runtimes — inferred, not designed. Sure, we’ll get longer context windows, tighter quantization, and smarter training. Tools will improve. Access will expand.
 
