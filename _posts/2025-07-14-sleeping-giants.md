@@ -28,7 +28,7 @@ Others point out that coding isn’t the bottleneck in product development. I ag
 
 While the world gluts itself on code, the craftsman waits.
 
-LLMs will flood the world with net-new code. They’ll subvert human-crafted systems with generative runtimes — inferred, not designed. Sure, we’ll get longer context windows, tighter quantization, and smarter training. Tools will improve. Access will expand.
+LLMs will flood the industry with net-new code. They’ll subvert human-crafted systems with generative runtimes — inferred, not designed. Sure, we’ll get longer context windows, tighter quantization, and smarter training. Tools will improve. Access will expand.
 
 The trouble is, we treat LLMs like scalpels, but they land like hammers.
 
