@@ -24,7 +24,7 @@ Recently, an industry idol claimed the craft itself is dying. That LLMs are stee
 
 Friends of mine feel it too. Their teams are ditching purpose-built languages like Erlang in favor of generic options like Java. Not because they’re better, but because LLMs can churn them out on command.
 
-Some argue that coding isn’t the bottleneck in product development. I agree. But here’s the deeper truth: the world is ravenous for software, and even LLMs won’t be enough to satisfy that hunger.
+Others point out that coding isn’t the bottleneck in product development. I agree. But here’s the uncomfortable truth: the world is ravenous for software, and even LLMs won’t be enough to feed it.
 
 While the industry gluts itself on code, the craftsman waits.
 
