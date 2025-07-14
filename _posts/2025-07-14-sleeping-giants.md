@@ -24,13 +24,13 @@ It’s been said that software craftsmanship is a dying art. That LLMs are steer
 
 Friends of mine feel it too. Their teams are ditching purpose-built languages like Erlang in favor of generic options like Java. Not because they’re better, but because LLMs can churn them out on command.
 
-Others point out that coding isn’t the bottleneck in product development. I agree. But here’s the uncomfortable truth: businesses are ravenous for software, and even LLMs won’t be enough to feed it.
+Others point out that coding isn’t the bottleneck in product development. I agree. But here’s the uncomfortable truth: businesses are ravenous for software, and even LLMs won’t be enough to feed them.
 
 While the world gluts itself on code, the craftsman waits.
 
 LLMs will flood the world with net-new code. They’ll subvert human-crafted systems with generative runtimes — inferred, not designed. Sure, we’ll get longer context windows, tighter quantization, and smarter training. Tools will improve. Access will expand.
 
-But here’s the other truth: we treat LLMs like scalpels, but they land like hammers.
+The trouble is, we treat LLMs like scalpels, but they land like hammers.
 
 In a few years, we’ll be knee-deep in bloated, broken code and deranged prompts praying for salvation. For most, it will be a nightmare to maintain.
 
