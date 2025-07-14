@@ -34,4 +34,4 @@ The trouble is, we treat LLMs like scalpels, but they land like hammers.
 
 In a few years, we’ll be knee-deep in bloated, broken code and deranged prompts praying for salvation. For most, it will be a nightmare to maintain.
 
-As our [culture of credit](https://spacebar.dev/archives/2014-02-22-a-culture-of-credit/) collapses under the weight of this generative mess, the craftsman will still be there, quietly sharpening his tools. Sooner or later, the note will come due on the trade that swapped CPU precision for GPU-powered illusion. And when it does, the craftsman will be prepared to refactor from first principles.
+As our [culture of credit](https://spacebar.dev/archives/2014-02-22-a-culture-of-credit/) collapses under the weight of this generative mess, the craftsman will still be there, quietly sharpening his tools. Sooner or later, the note will come due on the trade that swapped CPU precision for GPU-powered approximation. And when it does, the craftsman will be prepared to refactor from first principles.
