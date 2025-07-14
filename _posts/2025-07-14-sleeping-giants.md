@@ -18,7 +18,7 @@ tags:
   - technical-debt
 ---
 
-Ten years ago, I observed that [greed inhibits software craftsmanship](https://spacebar.dev/archives/2015-04-27-the-software-shokunin/). Today, that’s truer than ever.
+Ten years ago, I observed that [greed undermines software craftsmanship](https://spacebar.dev/archives/2015-04-27-the-software-shokunin/). Today, that’s truer than ever.
 
 Recently, an industry idol claimed the craft itself is dying. That LLMs are steering software development toward languages that are easily generated. Languages not chosen for their elegance or fitness, but for their compatibility with a model’s training set.
 
