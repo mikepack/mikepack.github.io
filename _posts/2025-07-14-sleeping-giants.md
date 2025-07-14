@@ -1,7 +1,7 @@
 ---
 title: "Sleeping Giants"
 published: true
-date: 2025-07-13
+date: 2025-07-14
 header:
   image: /assets/images/articles/headers/sleeping-giants.jpg
   image_description: "Sleeping Giants"
